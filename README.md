@@ -42,10 +42,8 @@ The objective of this project was to design and publish multiple business intell
 
 ## 🧪 Tools and Technologies Used
 
-- **Power BI** – Dashboard creation and visual analytics  
-- **Excel** – Data cleaning and transformation  
-- **SQL** – Basic preprocessing (where needed)  
-- **Canva** – Final visual polishing and layout planning
+- **Power BI / Tableau** – Dashboard creation and visual analytics  
+- **Excel / SQL** – Data cleaning, transformation and database creation
 
 ---
 
@@ -92,6 +90,12 @@ You can:
 
 ---
 
+## 🌐 Portfolio Site
+
+You can also view this project on my personal portfolio website:  
+🔗 [Wix Portfolio – Interactive BI Dashboards – Business Insights at a Glance](https://mukeshshirke12.wixsite.com/mukeshfolio/post/interactive-bi-dashboards-business-insights-at-a-glance)
+
+---
 ## 📧 Contact
 
 For any questions or feedback, feel free to reach out:
