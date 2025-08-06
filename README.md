@@ -47,7 +47,7 @@ The objective of this project was to design and publish multiple business intell
 
 ---
 
-## 📊 Dashboard Previews
+## 📊 Dashboard Previews (Coming soon)
 
 ### HR Dashboard  
 ![HR Dashboard](link-to-hr-dashboard-screenshot)
@@ -86,7 +86,6 @@ You can:
 - Download the `.pbix` files (coming soon)
 - View screenshots of the dashboards in the `/assets` folder
 - Read business case summaries in the documentation
-- Host these dashboards using Power BI Service for live interaction
 
 ---
 
@@ -101,5 +100,6 @@ You can also view this project on my personal portfolio website:
 For any questions or feedback, feel free to reach out:
 
 **Mukesh Shirke**  
-[Portfolio Website](https://mukeshshirke12.wixsite.com/mukeshfolio)  
-[LinkedIn](https://www.linkedin.com/in/mukeshshirke12/)  
+[GitHub Profile](https://github.com/MukeshTheAnalyst)  
+[Wix Portfolio](https://mukeshshirke12.wixsite.com/mukeshfolio)  
+[LinkedIn Profile](https://www.linkedin.com/in/mukeshshirke/)
